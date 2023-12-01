@@ -1,0 +1,96 @@
+
+- AAA - Authentication, Authorization, Accounting
+- ALE - Annualized Loss Expectancy
+- ARO - Annualized Rate of Occurrence
+- ARP - Address Resolution Protocol
+- AUP - Acceptable Use Policy 
+- BPA - Business Partnership Agreement
+- BYOD - Bring Your Own Device
+- BIA - Business Impact Analysis 
+- CER - Crossover Rejection Rate
+- CIA - Confidentiality, Integrity, Availability
+- CISO - Chief Information Security Officer
+- CMDB - Configuration Management Database
+- CSO - Chief Security Officer
+- CRL- Certificate Revocation List
+- CA - Certificate Authority 
+- CSR - Certificate Signing Request
+- CIO - Chief Information Officer
+- DES - Data Encryption Standard
+- DHCP - Dynamic Host Configuration Protocol
+- DLL Injection - Dynamic Link Library
+- DNS - Domain Name Service
+- EAP - Extensible Authentication Protocol
+- EDR - Endpoint Detection and Response
+- EAP-TTLS - Extensible Authentication Protocol
+- ESP- Encapsulating Security Payload
+- FAR - False Acceptance Rate
+- FDE - Full Disk Encryption
+- FedRAMP - Government Cloud
+- FIM - Federated Identity Management
+- FISMA - Federal Information Security Management Act
+- FRR - False Rejection Rate
+- GDPR - General Data Protection Regulation
+- GPO - Group Policy Object
+- HIPAA - Health Insurance Portability and Accountability Act
+- HMAC - Hash-based Message Authentication Code
+- HOTP - HMAC-based One Time Password
+- HTTP - Hyper Text Transfer Protocol
+- HIPS - Host Based Intrusion Prevention System
+- ICMP - Internet Control Message Protocol
+- LDAP - Lightweight Directory Access Protocol
+- MAC - Media Access Control
+- MD5 - Message Digest v5
+- MDM - Mobile Device Management
+- MFA - Multi Factor Authentication
+- MFD - Multi Functional Device
+- MSA - Measure Systems Analysis
+- MITRE ATT&CK - MIT Research and Engineering Adversarial Tactics, Techniques & Common Knowledge
+- MOU - Memorandum of Understanding
+- MTTF - Mean Time To Failure
+- MTBF - Mean Time Between Failure
+- MTTR - Mean Time to Repair 
+- NDA - Non-Disclosure Agreement
+- NGFW - Next Generation Firewall
+- NIPS - Network Intrusion Protection System
+- OCSP-  Online Certificate Status Protocol
+- OSINT- Open Source Intelligence 
+- PCI DSS - Payment Card Industry Data Security Standard
+- PII - Personal Identifiable Information
+- PHI - Personal Health Information
+- PSK - Pre-Shared Keys ^PSK
+- RSTP - Rapid Spanning Tree
+- RTO - Recovery Time Objective 
+- RPO - Recovery Point Objective
+- SAE - Simultaneous Authentication of Equals
+- SAML - Security Assertion Markup Language
+- SED - Self Encrypting Device
+- Secure LDAP - Encrypted Lightweight Directory Access Protocol
+- SHA - Secure Hash Algorithm
+- SIEM - Security Information and Event Management
+- SLA - Service Level Agreement
+- SLE - Single Loss Expectancy
+- SOC - Security Operations Center
+- SOX - Sarbanes Oxley
+- SOAR - Security Orchestration Automation Response
+- SP - Service Provider
+- SSID - Service Set Identifier
+- SSL - Secure Socket Layer
+- STIG - Security Technical Implementation Guides
+- STIX - Structured Threat Information eXpression
+- S/MIME- Secure Multipurpose Internet Mail Extensions 
+- TAXII - Trusted Automated eXchange of Indicator Information
+- TCP - Transmission Control Protocol
+- TLS - Transport Layer Security
+- TOTP - Time-based One Time Password
+- TTP - Tactics, Techniques & Procedures
+- TTL - Time To Live 
+- TPM - Trusted Platform Module
+- UAC - Microsoft User Account Control
+- UDP - User Datagram Protocol
+- UPS - Uninterruptible Power Supply
+- UTM - Unified Threat Management
+- VDI - Virtual Desktop Environment 
+- VLan - Virtual Local Area Network
+- WAF- Web Application Firewall
+- WPS - Wi-FI protected Set Up
